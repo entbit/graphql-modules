@@ -1,5 +1,11 @@
 # graphql-modules
 
+## 1.4.3
+
+### Patch Changes
+
+- debbc61: Adds a validation of typeDefs to be DocumentNodes
+
 ## 1.4.2
 
 ### Patch Changes
